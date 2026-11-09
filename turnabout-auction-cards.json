@@ -1,0 +1,2818 @@
+{
+  "artefact-001": {
+    "id": "artefact-001",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Earring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Earring"
+      }
+    },
+    "name": "Cleopatra's Earring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 50,
+    "effect": "If this artefact is sold with the other Cleopatra's Earring, triple it's value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-002": {
+    "id": "artefact-002",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Earring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Earring"
+      }
+    },
+    "name": "Cleopatra's Earring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 50,
+    "effect": "If this artefact is sold with the other Cleopatra's Earring, triple it's value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-003": {
+    "id": "artefact-003",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Crown"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Crown"
+      }
+    },
+    "name": "Cleopatra's Crown",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 75,
+    "effect": "All other artefacts from the Egyptian Era that are sold alongside this one gain 30 value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-004": {
+    "id": "artefact-004",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Crown"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Crown"
+      }
+    },
+    "name": "Cleopatra's Crown",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 75,
+    "effect": "All other artefacts from the Egyptian Era that are sold alongside this one gain 30 value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-005": {
+    "id": "artefact-005",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Era : Egyptian"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+      }
+    },
+    "name": "Era : Egyptian",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian Era",
+    "set": "Cleopatra",
+    "baseValue": 30,
+    "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-006": {
+    "id": "artefact-006",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Era : Egyptian"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+      }
+    },
+    "name": "Era : Egyptian",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian Era",
+    "set": "Cleopatra",
+    "baseValue": 30,
+    "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-007": {
+    "id": "artefact-007",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Era : Egyptian"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+      }
+    },
+    "name": "Era : Egyptian",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian Era",
+    "set": "Cleopatra",
+    "baseValue": 30,
+    "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-008": {
+    "id": "artefact-008",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+      }
+    },
+    "name": "Cleopatra's Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-009": {
+    "id": "artefact-009",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+      }
+    },
+    "name": "Cleopatra's Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-010": {
+    "id": "artefact-010",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+      }
+    },
+    "name": "Cleopatra's Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-011": {
+    "id": "artefact-011",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Cleopatra's Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+      }
+    },
+    "name": "Cleopatra's Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Cleopatra",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-012": {
+    "id": "artefact-012",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pharaoh's Sarcophagus"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Sarcophagus"
+      }
+    },
+    "name": "Pharaoh's Sarcophagus",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 200,
+    "effect": "You cannot draw new artefacts the turn after selling this artefact",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-013": {
+    "id": "artefact-013",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pharaoh's Sarcophagus"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Sarcophagus"
+      }
+    },
+    "name": "Pharaoh's Sarcophagus",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 200,
+    "effect": "You cannot draw new artefacts the turn after selling this artefact",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-014": {
+    "id": "artefact-014",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pharaoh's Mask"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+      }
+    },
+    "name": "Pharaoh's Mask",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 30,
+    "effect": "If this artefact was face down before being sold, double it's sell value",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-015": {
+    "id": "artefact-015",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pharaoh's Mask"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+      }
+    },
+    "name": "Pharaoh's Mask",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 30,
+    "effect": "If this artefact was face down before being sold, double it's sell value",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-016": {
+    "id": "artefact-016",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pharaoh's Mask"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+      }
+    },
+    "name": "Pharaoh's Mask",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 30,
+    "effect": "If this artefact was face down before being sold, double it's sell value",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-017": {
+    "id": "artefact-017",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Golden Collar"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Golden%20Collar"
+      }
+    },
+    "name": "Golden Collar",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 30,
+    "effect": "For every other artefact you are selling with a base value of 50 or more, gain 20 sell value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-018": {
+    "id": "artefact-018",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Golden Collar"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Golden%20Collar"
+      }
+    },
+    "name": "Golden Collar",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 30,
+    "effect": "For every other artefact you are selling with a base value of 50 or more, gain 20 sell value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-019": {
+    "id": "artefact-019",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Scarab"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+      }
+    },
+    "name": "Royal Scarab",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-020": {
+    "id": "artefact-020",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Scarab"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+      }
+    },
+    "name": "Royal Scarab",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-021": {
+    "id": "artefact-021",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Scarab"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+      }
+    },
+    "name": "Royal Scarab",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-022": {
+    "id": "artefact-022",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Royal Scarab"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+      }
+    },
+    "name": "Royal Scarab",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "Pharaoh",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-023": {
+    "id": "artefact-023",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sun Disk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sun%20Disk"
+      }
+    },
+    "name": "Sun Disk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 50,
+    "effect": "If all your remaining artefacts are face up, gain 75 sell value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-024": {
+    "id": "artefact-024",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sun Disk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sun%20Disk"
+      }
+    },
+    "name": "Sun Disk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 50,
+    "effect": "If all your remaining artefacts are face up, gain 75 sell value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-025": {
+    "id": "artefact-025",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sun God Medallion"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sun%20God%20Medallion"
+      }
+    },
+    "name": "Sun God Medallion",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 30,
+    "effect": "If you've revealed a face down card this turn, double this item's sell value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-026": {
+    "id": "artefact-026",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sun God Medallion"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sun%20God%20Medallion"
+      }
+    },
+    "name": "Sun God Medallion",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 30,
+    "effect": "If you've revealed a face down card this turn, double this item's sell value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-027": {
+    "id": "artefact-027",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Golden Scepter"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+      }
+    },
+    "name": "Golden Scepter",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 75,
+    "effect": "All other players will draw an extra artefact at the start of next turn.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-028": {
+    "id": "artefact-028",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Golden Scepter"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+      }
+    },
+    "name": "Golden Scepter",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 75,
+    "effect": "All other players will draw an extra artefact at the start of next turn.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-029": {
+    "id": "artefact-029",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Golden Scepter"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+      }
+    },
+    "name": "Golden Scepter",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 75,
+    "effect": "All other players will draw an extra artefact at the start of next turn.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-030": {
+    "id": "artefact-030",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sunstone Ring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+      }
+    },
+    "name": "Sunstone Ring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-031": {
+    "id": "artefact-031",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sunstone Ring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+      }
+    },
+    "name": "Sunstone Ring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-032": {
+    "id": "artefact-032",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sunstone Ring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+      }
+    },
+    "name": "Sunstone Ring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-033": {
+    "id": "artefact-033",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sunstone Ring"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+      }
+    },
+    "name": "Sunstone Ring",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Egyptian",
+    "set": "God of the Sun",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-034": {
+    "id": "artefact-034",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure Map Part"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+      }
+    },
+    "name": "Treasure Map Part",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 10,
+    "effect": "Once all 4 Treasure Map Parts have been sold, split 300 gold among all players who have sold Treasure Map Parts",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-035": {
+    "id": "artefact-035",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure Map Part"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+      }
+    },
+    "name": "Treasure Map Part",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 10,
+    "effect": "Once all 4 Treasure Map Parts have been sold, split 300 gold among all players who have sold Treasure Map Parts",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-036": {
+    "id": "artefact-036",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure Map Part"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+      }
+    },
+    "name": "Treasure Map Part",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 10,
+    "effect": "Once all 4 Treasure Map Parts have been sold, split 300 gold among all players who have sold Treasure Map Parts",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-037": {
+    "id": "artefact-037",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Treasure Map Part"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+      }
+    },
+    "name": "Treasure Map Part",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 10,
+    "effect": "Once all 4 Treasure Map Parts have been sold, split 300 gold among all players who have sold Treasure Map Parts",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-038": {
+    "id": "artefact-038",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sealed Treasure Chest"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+      }
+    },
+    "name": "Sealed Treasure Chest",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 50,
+    "effect": "At any point during the game, you can destroy this artefact to draw another one face up.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-039": {
+    "id": "artefact-039",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sealed Treasure Chest"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+      }
+    },
+    "name": "Sealed Treasure Chest",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 50,
+    "effect": "At any point during the game, you can destroy this artefact to draw another one face up.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-040": {
+    "id": "artefact-040",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Sealed Treasure Chest"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+      }
+    },
+    "name": "Sealed Treasure Chest",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 50,
+    "effect": "At any point during the game, you can destroy this artefact to draw another one face up.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-041": {
+    "id": "artefact-041",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Message in a Bottle"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+      }
+    },
+    "name": "Message in a Bottle",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-042": {
+    "id": "artefact-042",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Message in a Bottle"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+      }
+    },
+    "name": "Message in a Bottle",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-043": {
+    "id": "artefact-043",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Message in a Bottle"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+      }
+    },
+    "name": "Message in a Bottle",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-044": {
+    "id": "artefact-044",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Message in a Bottle"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+      }
+    },
+    "name": "Message in a Bottle",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Lost Treasure",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-045": {
+    "id": "artefact-045",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pile of Doubloons"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+      }
+    },
+    "name": "Pile of Doubloons",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact counts as 3 separate artefacts worth 10 gold each.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-046": {
+    "id": "artefact-046",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pile of Doubloons"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+      }
+    },
+    "name": "Pile of Doubloons",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact counts as 3 separate artefacts worth 10 gold each.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-047": {
+    "id": "artefact-047",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Pile of Doubloons"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+      }
+    },
+    "name": "Pile of Doubloons",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact counts as 3 separate artefacts worth 10 gold each.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-048": {
+    "id": "artefact-048",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Smuggler's Account"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Smuggler%27s%20Account"
+      }
+    },
+    "name": "Smuggler's Account",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "Your other artefacts with a printed base value under 50 gain 20 base value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-049": {
+    "id": "artefact-049",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Smuggler's Account"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Smuggler%27s%20Account"
+      }
+    },
+    "name": "Smuggler's Account",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "Your other artefacts with a printed base value under 50 gain 20 base value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-050": {
+    "id": "artefact-050",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Loot Sack"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+      }
+    },
+    "name": "Loot Sack",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact gains 10 sell value for each other artefact sold alongside it",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-051": {
+    "id": "artefact-051",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Loot Sack"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+      }
+    },
+    "name": "Loot Sack",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact gains 10 sell value for each other artefact sold alongside it",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-052": {
+    "id": "artefact-052",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Loot Sack"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+      }
+    },
+    "name": "Loot Sack",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 30,
+    "effect": "This artefact gains 10 sell value for each other artefact sold alongside it",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-053": {
+    "id": "artefact-053",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Black Market Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+      }
+    },
+    "name": "Black Market Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-054": {
+    "id": "artefact-054",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Black Market Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+      }
+    },
+    "name": "Black Market Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-055": {
+    "id": "artefact-055",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Black Market Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+      }
+    },
+    "name": "Black Market Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-056": {
+    "id": "artefact-056",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Black Market Pearls"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+      }
+    },
+    "name": "Black Market Pearls",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Smuggler's Cache",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-057": {
+    "id": "artefact-057",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trading Manifest"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Trading%20Manifest"
+      }
+    },
+    "name": "Trading Manifest",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If you acquired this artefact from another player in a trade, gain 75 base value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-058": {
+    "id": "artefact-058",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Trading Manifest"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Trading%20Manifest"
+      }
+    },
+    "name": "Trading Manifest",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If you acquired this artefact from another player in a trade, gain 75 base value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-059": {
+    "id": "artefact-059",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Old Knucklebone Set"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+      }
+    },
+    "name": "Old Knucklebone Set",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If this artefact is also being sold by another player on the same turn, gain 50 sell value",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-060": {
+    "id": "artefact-060",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Old Knucklebone Set"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+      }
+    },
+    "name": "Old Knucklebone Set",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If this artefact is also being sold by another player on the same turn, gain 50 sell value",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-061": {
+    "id": "artefact-061",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Old Knucklebone Set"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+      }
+    },
+    "name": "Old Knucklebone Set",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If this artefact is also being sold by another player on the same turn, gain 50 sell value",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-062": {
+    "id": "artefact-062",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Old Knucklebone Set"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+      }
+    },
+    "name": "Old Knucklebone Set",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 30,
+    "effect": "If this artefact is also being sold by another player on the same turn, gain 50 sell value",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-063": {
+    "id": "artefact-063",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Customs Stamp"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Customs%20Stamp"
+      }
+    },
+    "name": "Customs Stamp",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 50,
+    "effect": "Any artefacts that were sold to you by another player this turn gain 30 sell value",
+    "copyNumber": 1,
+    "totalCopies": 1
+  },
+  "artefact-064": {
+    "id": "artefact-064",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crate of Silk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+      }
+    },
+    "name": "Crate of Silk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-065": {
+    "id": "artefact-065",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crate of Silk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+      }
+    },
+    "name": "Crate of Silk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-066": {
+    "id": "artefact-066",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crate of Silk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+      }
+    },
+    "name": "Crate of Silk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-067": {
+    "id": "artefact-067",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Crate of Silk"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+      }
+    },
+    "name": "Crate of Silk",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Pirate",
+    "set": "Trading Company",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-068": {
+    "id": "artefact-068",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Bust"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+      }
+    },
+    "name": "Marble Bust",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-069": {
+    "id": "artefact-069",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Bust"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+      }
+    },
+    "name": "Marble Bust",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-070": {
+    "id": "artefact-070",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Bust"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+      }
+    },
+    "name": "Marble Bust",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-071": {
+    "id": "artefact-071",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Head"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+      }
+    },
+    "name": "Marble Head",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Bust and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-072": {
+    "id": "artefact-072",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Head"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+      }
+    },
+    "name": "Marble Head",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Bust and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-073": {
+    "id": "artefact-073",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Head"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+      }
+    },
+    "name": "Marble Head",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Bust and Marble Legs artefact, triple it's sell value.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-074": {
+    "id": "artefact-074",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Legs"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+      }
+    },
+    "name": "Marble Legs",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Bust artefact, triple it's sell value.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-075": {
+    "id": "artefact-075",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Legs"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+      }
+    },
+    "name": "Marble Legs",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Bust artefact, triple it's sell value.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-076": {
+    "id": "artefact-076",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Marble Legs"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+      }
+    },
+    "name": "Marble Legs",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Marble Statue",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Marble Head and Marble Bust artefact, triple it's sell value.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-077": {
+    "id": "artefact-077",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lyre"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Lyre"
+      }
+    },
+    "name": "Lyre",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Flute, the value of both artefacts is doubled.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-078": {
+    "id": "artefact-078",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lyre"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Lyre"
+      }
+    },
+    "name": "Lyre",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Flute, the value of both artefacts is doubled.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-079": {
+    "id": "artefact-079",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flute"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Flute"
+      }
+    },
+    "name": "Flute",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Drum, the value of both artefacts is doubled.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-080": {
+    "id": "artefact-080",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Flute"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Flute"
+      }
+    },
+    "name": "Flute",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Drum, the value of both artefacts is doubled.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-081": {
+    "id": "artefact-081",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Drum"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Drum"
+      }
+    },
+    "name": "Drum",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Lyre, the value of both artefacts is doubled.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-082": {
+    "id": "artefact-082",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Drum"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Drum"
+      }
+    },
+    "name": "Drum",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Musician's Set",
+    "baseValue": 40,
+    "effect": "If this is sold alongside the Lyre, the value of both artefacts is doubled.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-083": {
+    "id": "artefact-083",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olive Wreath"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+      }
+    },
+    "name": "Olive Wreath",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 50,
+    "effect": "This item's sell value cannot be modified.",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-084": {
+    "id": "artefact-084",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olive Wreath"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+      }
+    },
+    "name": "Olive Wreath",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 50,
+    "effect": "This item's sell value cannot be modified.",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-085": {
+    "id": "artefact-085",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olive Wreath"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+      }
+    },
+    "name": "Olive Wreath",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 50,
+    "effect": "This item's sell value cannot be modified.",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-086": {
+    "id": "artefact-086",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bronze Tripod"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Bronze%20Tripod"
+      }
+    },
+    "name": "Bronze Tripod",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 40,
+    "effect": "If this is sold alongside another set containing exactly 3 artefacts, give them and this artefact 20 sell value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-087": {
+    "id": "artefact-087",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Bronze Tripod"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Bronze%20Tripod"
+      }
+    },
+    "name": "Bronze Tripod",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 40,
+    "effect": "If this is sold alongside another set containing exactly 3 artefacts, give them and this artefact 20 sell value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-088": {
+    "id": "artefact-088",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hermes's Sandals"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Hermes%27s%20Sandals"
+      }
+    },
+    "name": "Hermes's Sandals",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 40,
+    "effect": "If you sell this on the same turn you've obtained this artefact, triple's this item's value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-089": {
+    "id": "artefact-089",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hermes's Sandals"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Hermes%27s%20Sandals"
+      }
+    },
+    "name": "Hermes's Sandals",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 40,
+    "effect": "If you sell this on the same turn you've obtained this artefact, triple's this item's value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-090": {
+    "id": "artefact-090",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olympic Torch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+      }
+    },
+    "name": "Olympic Torch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-091": {
+    "id": "artefact-091",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olympic Torch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+      }
+    },
+    "name": "Olympic Torch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-092": {
+    "id": "artefact-092",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olympic Torch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+      }
+    },
+    "name": "Olympic Torch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-093": {
+    "id": "artefact-093",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Olympic Torch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+      }
+    },
+    "name": "Olympic Torch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Ancient Greece",
+    "set": "Olympic Games",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-094": {
+    "id": "artefact-094",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Scroll"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Secret%20Scroll"
+      }
+    },
+    "name": "Secret Scroll",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 30,
+    "effect": "Artefacts that were face down before being sold gain 30 sell value.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-095": {
+    "id": "artefact-095",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Secret Scroll"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Secret%20Scroll"
+      }
+    },
+    "name": "Secret Scroll",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 30,
+    "effect": "Artefacts that were face down before being sold gain 30 sell value.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-096": {
+    "id": "artefact-096",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hidden Pouch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Hidden%20Pouch"
+      }
+    },
+    "name": "Hidden Pouch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 30,
+    "effect": "You can attach any artefact from any set to this one and sell them as one artefact.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-097": {
+    "id": "artefact-097",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Hidden Pouch"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Hidden%20Pouch"
+      }
+    },
+    "name": "Hidden Pouch",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 30,
+    "effect": "You can attach any artefact from any set to this one and sell them as one artefact.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-098": {
+    "id": "artefact-098",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ninja Cloak"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+      }
+    },
+    "name": "Ninja Cloak",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 75,
+    "effect": "If another player is selling this artefact on the same turn, lose 50 sell value",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-099": {
+    "id": "artefact-099",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ninja Cloak"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+      }
+    },
+    "name": "Ninja Cloak",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 75,
+    "effect": "If another player is selling this artefact on the same turn, lose 50 sell value",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-100": {
+    "id": "artefact-100",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ninja Cloak"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+      }
+    },
+    "name": "Ninja Cloak",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 75,
+    "effect": "If another player is selling this artefact on the same turn, lose 50 sell value",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-101": {
+    "id": "artefact-101",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Throwing Stars"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+      }
+    },
+    "name": "Throwing Stars",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-102": {
+    "id": "artefact-102",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Throwing Stars"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+      }
+    },
+    "name": "Throwing Stars",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-103": {
+    "id": "artefact-103",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Throwing Stars"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+      }
+    },
+    "name": "Throwing Stars",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-104": {
+    "id": "artefact-104",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Throwing Stars"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+      }
+    },
+    "name": "Throwing Stars",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Ninja",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-105": {
+    "id": "artefact-105",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ronin's Katana"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Katana"
+      }
+    },
+    "name": "Ronin's Katana",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 75,
+    "effect": "If this is the only artefact you are selling, triple it's sell value",
+    "copyNumber": 1,
+    "totalCopies": 1
+  },
+  "artefact-106": {
+    "id": "artefact-106",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ronin's Bow"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Bow"
+      }
+    },
+    "name": "Ronin's Bow",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 75,
+    "effect": "If this is the only artefact you are selling, triple it's sell value",
+    "copyNumber": 1,
+    "totalCopies": 1
+  },
+  "artefact-107": {
+    "id": "artefact-107",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Ronin's Armor"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Armor"
+      }
+    },
+    "name": "Ronin's Armor",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 75,
+    "effect": "If this is the only artefact you are selling, triple it's sell value",
+    "copyNumber": 1,
+    "totalCopies": 1
+  },
+  "artefact-108": {
+    "id": "artefact-108",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clan Banner"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Clan%20Banner"
+      }
+    },
+    "name": "Clan Banner",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 50,
+    "effect": "If you are only selling artefacts from the Feudal Japan Era, they all gain 50 sell value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-109": {
+    "id": "artefact-109",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Clan Banner"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Clan%20Banner"
+      }
+    },
+    "name": "Clan Banner",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 50,
+    "effect": "If you are only selling artefacts from the Feudal Japan Era, they all gain 50 sell value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-110": {
+    "id": "artefact-110",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Last Arrow"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Last%20Arrow"
+      }
+    },
+    "name": "Last Arrow",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 50,
+    "effect": "If you are selling this artefact on the last turn of the game, triple it's value",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-111": {
+    "id": "artefact-111",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Last Arrow"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Last%20Arrow"
+      }
+    },
+    "name": "Last Arrow",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 50,
+    "effect": "If you are selling this artefact on the last turn of the game, triple it's value",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-112": {
+    "id": "artefact-112",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Samurai Helmet"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+      }
+    },
+    "name": "Samurai Helmet",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-113": {
+    "id": "artefact-113",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Samurai Helmet"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+      }
+    },
+    "name": "Samurai Helmet",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-114": {
+    "id": "artefact-114",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Samurai Helmet"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+      }
+    },
+    "name": "Samurai Helmet",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-115": {
+    "id": "artefact-115",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Samurai Helmet"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+      }
+    },
+    "name": "Samurai Helmet",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Samurai",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-116": {
+    "id": "artefact-116",
+    "face": {
+      "front": {
+        "name": {
+          "name": "**Tea Bowl :**"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+      }
+    },
+    "name": "**Tea Bowl :**",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 30,
+    "effect": "For each other Tea Bowl you own, gain 30 sell value",
+    "copyNumber": 1,
+    "totalCopies": 3
+  },
+  "artefact-117": {
+    "id": "artefact-117",
+    "face": {
+      "front": {
+        "name": {
+          "name": "**Tea Bowl :**"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+      }
+    },
+    "name": "**Tea Bowl :**",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 30,
+    "effect": "For each other Tea Bowl you own, gain 30 sell value",
+    "copyNumber": 2,
+    "totalCopies": 3
+  },
+  "artefact-118": {
+    "id": "artefact-118",
+    "face": {
+      "front": {
+        "name": {
+          "name": "**Tea Bowl :**"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+      }
+    },
+    "name": "**Tea Bowl :**",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 30,
+    "effect": "For each other Tea Bowl you own, gain 30 sell value",
+    "copyNumber": 3,
+    "totalCopies": 3
+  },
+  "artefact-119": {
+    "id": "artefact-119",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Merchant's Abacus"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Merchant%27s%20Abacus"
+      }
+    },
+    "name": "Merchant's Abacus",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 40,
+    "effect": "This artefact gains 30 sell value if you've performed a trade with another player this turn.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-120": {
+    "id": "artefact-120",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Merchant's Abacus"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Merchant%27s%20Abacus"
+      }
+    },
+    "name": "Merchant's Abacus",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 40,
+    "effect": "This artefact gains 30 sell value if you've performed a trade with another player this turn.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-121": {
+    "id": "artefact-121",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lucky Cat"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Lucky%20Cat"
+      }
+    },
+    "name": "Lucky Cat",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "This artefact's sell value is doubled.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-122": {
+    "id": "artefact-122",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Lucky Cat"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Lucky%20Cat"
+      }
+    },
+    "name": "Lucky Cat",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "This artefact's sell value is doubled.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  },
+  "artefact-123": {
+    "id": "artefact-123",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Paper Lantern"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+      }
+    },
+    "name": "Paper Lantern",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 1,
+    "totalCopies": 4
+  },
+  "artefact-124": {
+    "id": "artefact-124",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Paper Lantern"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+      }
+    },
+    "name": "Paper Lantern",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 2,
+    "totalCopies": 4
+  },
+  "artefact-125": {
+    "id": "artefact-125",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Paper Lantern"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+      }
+    },
+    "name": "Paper Lantern",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 3,
+    "totalCopies": 4
+  },
+  "artefact-126": {
+    "id": "artefact-126",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Paper Lantern"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+      }
+    },
+    "name": "Paper Lantern",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "Feudal Japan",
+    "set": "Tea House",
+    "baseValue": 20,
+    "effect": "N/A",
+    "copyNumber": 4,
+    "totalCopies": 4
+  },
+  "artefact-127": {
+    "id": "artefact-127",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Convincing Forgery"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Convincing%20Forgery"
+      }
+    },
+    "name": "Convincing Forgery",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "N/A",
+    "set": "N/A",
+    "baseValue": null,
+    "effect": "This artefact can be attached to any other artefact while it is being sold, and will copy it.",
+    "copyNumber": 1,
+    "totalCopies": 2
+  },
+  "artefact-128": {
+    "id": "artefact-128",
+    "face": {
+      "front": {
+        "name": {
+          "name": "Convincing Forgery"
+        },
+        "type": "Artefact",
+        "cost": 0,
+        "image": "https://placehold.co/400x560/png?text=Convincing%20Forgery"
+      }
+    },
+    "name": "Convincing Forgery",
+    "type": "Artefact",
+    "cost": 0,
+    "era": "N/A",
+    "set": "N/A",
+    "baseValue": null,
+    "effect": "This artefact can be attached to any other artefact while it is being sold, and will copy it.",
+    "copyNumber": 2,
+    "totalCopies": 2
+  }
+}
