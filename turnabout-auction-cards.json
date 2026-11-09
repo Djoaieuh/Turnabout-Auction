@@ -7,13 +7,13 @@
           "name": "Cleopatra's Earring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Earring"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-earring.svg"
       }
     },
     "name": "Cleopatra's Earring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 50,
@@ -29,13 +29,13 @@
           "name": "Cleopatra's Earring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Earring"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-earring.svg"
       }
     },
     "name": "Cleopatra's Earring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 50,
@@ -51,13 +51,13 @@
           "name": "Cleopatra's Crown"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Crown"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-crown.svg"
       }
     },
     "name": "Cleopatra's Crown",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 75,
@@ -73,13 +73,13 @@
           "name": "Cleopatra's Crown"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Crown"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-crown.svg"
       }
     },
     "name": "Cleopatra's Crown",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 75,
@@ -92,17 +92,17 @@
     "face": {
       "front": {
         "name": {
-          "name": "Era : Egyptian"
+          "name": "Cleopatra's Mirror"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-mirror.svg"
       }
     },
-    "name": "Era : Egyptian",
+    "name": "Cleopatra's Mirror",
     "type": "Artefact",
-    "cost": 0,
-    "era": "Egyptian Era",
+    "cost": 30,
+    "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 30,
     "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
@@ -114,17 +114,17 @@
     "face": {
       "front": {
         "name": {
-          "name": "Era : Egyptian"
+          "name": "Cleopatra's Mirror"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-mirror.svg"
       }
     },
-    "name": "Era : Egyptian",
+    "name": "Cleopatra's Mirror",
     "type": "Artefact",
-    "cost": 0,
-    "era": "Egyptian Era",
+    "cost": 30,
+    "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 30,
     "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
@@ -136,17 +136,17 @@
     "face": {
       "front": {
         "name": {
-          "name": "Era : Egyptian"
+          "name": "Cleopatra's Mirror"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Era%20%3A%20Egyptian"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-mirror.svg"
       }
     },
-    "name": "Era : Egyptian",
+    "name": "Cleopatra's Mirror",
     "type": "Artefact",
-    "cost": 0,
-    "era": "Egyptian Era",
+    "cost": 30,
+    "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 30,
     "effect": "If you sell 2 or more copies of the same artefact, give them 30 sell value.",
@@ -161,13 +161,13 @@
           "name": "Cleopatra's Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-pearls.svg"
       }
     },
     "name": "Cleopatra's Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 20,
@@ -183,13 +183,13 @@
           "name": "Cleopatra's Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-pearls.svg"
       }
     },
     "name": "Cleopatra's Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 20,
@@ -205,13 +205,13 @@
           "name": "Cleopatra's Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-pearls.svg"
       }
     },
     "name": "Cleopatra's Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 20,
@@ -227,13 +227,13 @@
           "name": "Cleopatra's Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Cleopatra%27s%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/cleopatra-s-pearls.svg"
       }
     },
     "name": "Cleopatra's Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Cleopatra",
     "baseValue": 20,
@@ -249,13 +249,13 @@
           "name": "Pharaoh's Sarcophagus"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Sarcophagus"
+        "cost": 200,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pharaoh-s-sarcophagus.svg"
       }
     },
     "name": "Pharaoh's Sarcophagus",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 200,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 200,
@@ -271,13 +271,13 @@
           "name": "Pharaoh's Sarcophagus"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Sarcophagus"
+        "cost": 200,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pharaoh-s-sarcophagus.svg"
       }
     },
     "name": "Pharaoh's Sarcophagus",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 200,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 200,
@@ -293,13 +293,13 @@
           "name": "Pharaoh's Mask"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pharaoh-s-mask.svg"
       }
     },
     "name": "Pharaoh's Mask",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 30,
@@ -315,13 +315,13 @@
           "name": "Pharaoh's Mask"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pharaoh-s-mask.svg"
       }
     },
     "name": "Pharaoh's Mask",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 30,
@@ -337,13 +337,13 @@
           "name": "Pharaoh's Mask"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pharaoh%27s%20Mask"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pharaoh-s-mask.svg"
       }
     },
     "name": "Pharaoh's Mask",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 30,
@@ -359,13 +359,13 @@
           "name": "Golden Collar"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Golden%20Collar"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/golden-collar.svg"
       }
     },
     "name": "Golden Collar",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 30,
@@ -381,13 +381,13 @@
           "name": "Golden Collar"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Golden%20Collar"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/golden-collar.svg"
       }
     },
     "name": "Golden Collar",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 30,
@@ -403,13 +403,13 @@
           "name": "Royal Scarab"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/royal-scarab.svg"
       }
     },
     "name": "Royal Scarab",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 20,
@@ -425,13 +425,13 @@
           "name": "Royal Scarab"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/royal-scarab.svg"
       }
     },
     "name": "Royal Scarab",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 20,
@@ -447,13 +447,13 @@
           "name": "Royal Scarab"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/royal-scarab.svg"
       }
     },
     "name": "Royal Scarab",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 20,
@@ -469,13 +469,13 @@
           "name": "Royal Scarab"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Royal%20Scarab"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/royal-scarab.svg"
       }
     },
     "name": "Royal Scarab",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "Pharaoh",
     "baseValue": 20,
@@ -491,13 +491,13 @@
           "name": "Sun Disk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sun%20Disk"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sun-disk.svg"
       }
     },
     "name": "Sun Disk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 50,
@@ -513,13 +513,13 @@
           "name": "Sun Disk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sun%20Disk"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sun-disk.svg"
       }
     },
     "name": "Sun Disk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 50,
@@ -535,13 +535,13 @@
           "name": "Sun God Medallion"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sun%20God%20Medallion"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sun-god-medallion.svg"
       }
     },
     "name": "Sun God Medallion",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 30,
@@ -557,13 +557,13 @@
           "name": "Sun God Medallion"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sun%20God%20Medallion"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sun-god-medallion.svg"
       }
     },
     "name": "Sun God Medallion",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 30,
@@ -579,13 +579,13 @@
           "name": "Golden Scepter"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/golden-scepter.svg"
       }
     },
     "name": "Golden Scepter",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 75,
@@ -601,13 +601,13 @@
           "name": "Golden Scepter"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/golden-scepter.svg"
       }
     },
     "name": "Golden Scepter",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 75,
@@ -623,13 +623,13 @@
           "name": "Golden Scepter"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Golden%20Scepter"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/golden-scepter.svg"
       }
     },
     "name": "Golden Scepter",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 75,
@@ -645,13 +645,13 @@
           "name": "Sunstone Ring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sunstone-ring.svg"
       }
     },
     "name": "Sunstone Ring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 20,
@@ -667,13 +667,13 @@
           "name": "Sunstone Ring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sunstone-ring.svg"
       }
     },
     "name": "Sunstone Ring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 20,
@@ -689,13 +689,13 @@
           "name": "Sunstone Ring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sunstone-ring.svg"
       }
     },
     "name": "Sunstone Ring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 20,
@@ -711,13 +711,13 @@
           "name": "Sunstone Ring"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sunstone%20Ring"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sunstone-ring.svg"
       }
     },
     "name": "Sunstone Ring",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Egyptian",
     "set": "God of the Sun",
     "baseValue": 20,
@@ -733,13 +733,13 @@
           "name": "Treasure Map Part"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+        "cost": 10,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/treasure-map-part.svg"
       }
     },
     "name": "Treasure Map Part",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 10,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 10,
@@ -755,13 +755,13 @@
           "name": "Treasure Map Part"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+        "cost": 10,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/treasure-map-part.svg"
       }
     },
     "name": "Treasure Map Part",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 10,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 10,
@@ -777,13 +777,13 @@
           "name": "Treasure Map Part"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+        "cost": 10,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/treasure-map-part.svg"
       }
     },
     "name": "Treasure Map Part",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 10,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 10,
@@ -799,13 +799,13 @@
           "name": "Treasure Map Part"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Treasure%20Map%20Part"
+        "cost": 10,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/treasure-map-part.svg"
       }
     },
     "name": "Treasure Map Part",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 10,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 10,
@@ -821,13 +821,13 @@
           "name": "Sealed Treasure Chest"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sealed-treasure-chest.svg"
       }
     },
     "name": "Sealed Treasure Chest",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 50,
@@ -843,13 +843,13 @@
           "name": "Sealed Treasure Chest"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sealed-treasure-chest.svg"
       }
     },
     "name": "Sealed Treasure Chest",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 50,
@@ -865,13 +865,13 @@
           "name": "Sealed Treasure Chest"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Sealed%20Treasure%20Chest"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/sealed-treasure-chest.svg"
       }
     },
     "name": "Sealed Treasure Chest",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 50,
@@ -887,13 +887,13 @@
           "name": "Message in a Bottle"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/message-in-a-bottle.svg"
       }
     },
     "name": "Message in a Bottle",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 20,
@@ -909,13 +909,13 @@
           "name": "Message in a Bottle"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/message-in-a-bottle.svg"
       }
     },
     "name": "Message in a Bottle",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 20,
@@ -931,13 +931,13 @@
           "name": "Message in a Bottle"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/message-in-a-bottle.svg"
       }
     },
     "name": "Message in a Bottle",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 20,
@@ -953,13 +953,13 @@
           "name": "Message in a Bottle"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Message%20in%20a%20Bottle"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/message-in-a-bottle.svg"
       }
     },
     "name": "Message in a Bottle",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Lost Treasure",
     "baseValue": 20,
@@ -975,13 +975,13 @@
           "name": "Pile of Doubloons"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pile-of-doubloons.svg"
       }
     },
     "name": "Pile of Doubloons",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -997,13 +997,13 @@
           "name": "Pile of Doubloons"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pile-of-doubloons.svg"
       }
     },
     "name": "Pile of Doubloons",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1019,13 +1019,13 @@
           "name": "Pile of Doubloons"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Pile%20of%20Doubloons"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/pile-of-doubloons.svg"
       }
     },
     "name": "Pile of Doubloons",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1041,13 +1041,13 @@
           "name": "Smuggler's Account"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Smuggler%27s%20Account"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/smuggler-s-account.svg"
       }
     },
     "name": "Smuggler's Account",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1063,13 +1063,13 @@
           "name": "Smuggler's Account"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Smuggler%27s%20Account"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/smuggler-s-account.svg"
       }
     },
     "name": "Smuggler's Account",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1085,13 +1085,13 @@
           "name": "Loot Sack"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/loot-sack.svg"
       }
     },
     "name": "Loot Sack",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1107,13 +1107,13 @@
           "name": "Loot Sack"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/loot-sack.svg"
       }
     },
     "name": "Loot Sack",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1129,13 +1129,13 @@
           "name": "Loot Sack"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Loot%20Sack"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/loot-sack.svg"
       }
     },
     "name": "Loot Sack",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 30,
@@ -1151,13 +1151,13 @@
           "name": "Black Market Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/black-market-pearls.svg"
       }
     },
     "name": "Black Market Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 20,
@@ -1173,13 +1173,13 @@
           "name": "Black Market Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/black-market-pearls.svg"
       }
     },
     "name": "Black Market Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 20,
@@ -1195,13 +1195,13 @@
           "name": "Black Market Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/black-market-pearls.svg"
       }
     },
     "name": "Black Market Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 20,
@@ -1217,13 +1217,13 @@
           "name": "Black Market Pearls"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Black%20Market%20Pearls"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/black-market-pearls.svg"
       }
     },
     "name": "Black Market Pearls",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Smuggler's Cache",
     "baseValue": 20,
@@ -1239,13 +1239,13 @@
           "name": "Trading Manifest"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Trading%20Manifest"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/trading-manifest.svg"
       }
     },
     "name": "Trading Manifest",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1261,13 +1261,13 @@
           "name": "Trading Manifest"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Trading%20Manifest"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/trading-manifest.svg"
       }
     },
     "name": "Trading Manifest",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1283,13 +1283,13 @@
           "name": "Old Knucklebone Set"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/old-knucklebone-set.svg"
       }
     },
     "name": "Old Knucklebone Set",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1305,13 +1305,13 @@
           "name": "Old Knucklebone Set"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/old-knucklebone-set.svg"
       }
     },
     "name": "Old Knucklebone Set",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1327,13 +1327,13 @@
           "name": "Old Knucklebone Set"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/old-knucklebone-set.svg"
       }
     },
     "name": "Old Knucklebone Set",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1349,13 +1349,13 @@
           "name": "Old Knucklebone Set"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Old%20Knucklebone%20Set"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/old-knucklebone-set.svg"
       }
     },
     "name": "Old Knucklebone Set",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 30,
@@ -1371,13 +1371,13 @@
           "name": "Customs Stamp"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Customs%20Stamp"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/customs-stamp.svg"
       }
     },
     "name": "Customs Stamp",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 50,
@@ -1393,13 +1393,13 @@
           "name": "Crate of Silk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/crate-of-silk.svg"
       }
     },
     "name": "Crate of Silk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 20,
@@ -1415,13 +1415,13 @@
           "name": "Crate of Silk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/crate-of-silk.svg"
       }
     },
     "name": "Crate of Silk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 20,
@@ -1437,13 +1437,13 @@
           "name": "Crate of Silk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/crate-of-silk.svg"
       }
     },
     "name": "Crate of Silk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 20,
@@ -1459,13 +1459,13 @@
           "name": "Crate of Silk"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Crate%20of%20Silk"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/crate-of-silk.svg"
       }
     },
     "name": "Crate of Silk",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Pirate",
     "set": "Trading Company",
     "baseValue": 20,
@@ -1481,13 +1481,13 @@
           "name": "Marble Bust"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-bust.svg"
       }
     },
     "name": "Marble Bust",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1503,13 +1503,13 @@
           "name": "Marble Bust"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-bust.svg"
       }
     },
     "name": "Marble Bust",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1525,13 +1525,13 @@
           "name": "Marble Bust"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Bust"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-bust.svg"
       }
     },
     "name": "Marble Bust",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1547,13 +1547,13 @@
           "name": "Marble Head"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-head.svg"
       }
     },
     "name": "Marble Head",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1569,13 +1569,13 @@
           "name": "Marble Head"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-head.svg"
       }
     },
     "name": "Marble Head",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1591,13 +1591,13 @@
           "name": "Marble Head"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Head"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-head.svg"
       }
     },
     "name": "Marble Head",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1613,13 +1613,13 @@
           "name": "Marble Legs"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-legs.svg"
       }
     },
     "name": "Marble Legs",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1635,13 +1635,13 @@
           "name": "Marble Legs"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-legs.svg"
       }
     },
     "name": "Marble Legs",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1657,13 +1657,13 @@
           "name": "Marble Legs"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Marble%20Legs"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/marble-legs.svg"
       }
     },
     "name": "Marble Legs",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Marble Statue",
     "baseValue": 40,
@@ -1679,13 +1679,13 @@
           "name": "Lyre"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Lyre"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/lyre.svg"
       }
     },
     "name": "Lyre",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1701,13 +1701,13 @@
           "name": "Lyre"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Lyre"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/lyre.svg"
       }
     },
     "name": "Lyre",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1723,13 +1723,13 @@
           "name": "Flute"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Flute"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/flute.svg"
       }
     },
     "name": "Flute",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1745,13 +1745,13 @@
           "name": "Flute"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Flute"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/flute.svg"
       }
     },
     "name": "Flute",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1767,13 +1767,13 @@
           "name": "Drum"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Drum"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/drum.svg"
       }
     },
     "name": "Drum",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1789,13 +1789,13 @@
           "name": "Drum"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Drum"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/drum.svg"
       }
     },
     "name": "Drum",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Musician's Set",
     "baseValue": 40,
@@ -1811,13 +1811,13 @@
           "name": "Olive Wreath"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olive-wreath.svg"
       }
     },
     "name": "Olive Wreath",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 50,
@@ -1833,13 +1833,13 @@
           "name": "Olive Wreath"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olive-wreath.svg"
       }
     },
     "name": "Olive Wreath",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 50,
@@ -1855,13 +1855,13 @@
           "name": "Olive Wreath"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olive%20Wreath"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olive-wreath.svg"
       }
     },
     "name": "Olive Wreath",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 50,
@@ -1877,13 +1877,13 @@
           "name": "Bronze Tripod"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Bronze%20Tripod"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/bronze-tripod.svg"
       }
     },
     "name": "Bronze Tripod",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 40,
@@ -1899,13 +1899,13 @@
           "name": "Bronze Tripod"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Bronze%20Tripod"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/bronze-tripod.svg"
       }
     },
     "name": "Bronze Tripod",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 40,
@@ -1921,13 +1921,13 @@
           "name": "Hermes's Sandals"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Hermes%27s%20Sandals"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/hermes-s-sandals.svg"
       }
     },
     "name": "Hermes's Sandals",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 40,
@@ -1943,13 +1943,13 @@
           "name": "Hermes's Sandals"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Hermes%27s%20Sandals"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/hermes-s-sandals.svg"
       }
     },
     "name": "Hermes's Sandals",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 40,
@@ -1965,13 +1965,13 @@
           "name": "Olympic Torch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olympic-torch.svg"
       }
     },
     "name": "Olympic Torch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 20,
@@ -1987,13 +1987,13 @@
           "name": "Olympic Torch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olympic-torch.svg"
       }
     },
     "name": "Olympic Torch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 20,
@@ -2009,13 +2009,13 @@
           "name": "Olympic Torch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olympic-torch.svg"
       }
     },
     "name": "Olympic Torch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 20,
@@ -2031,13 +2031,13 @@
           "name": "Olympic Torch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Olympic%20Torch"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/olympic-torch.svg"
       }
     },
     "name": "Olympic Torch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Ancient Greece",
     "set": "Olympic Games",
     "baseValue": 20,
@@ -2053,13 +2053,13 @@
           "name": "Secret Scroll"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Secret%20Scroll"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/secret-scroll.svg"
       }
     },
     "name": "Secret Scroll",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 30,
@@ -2075,13 +2075,13 @@
           "name": "Secret Scroll"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Secret%20Scroll"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/secret-scroll.svg"
       }
     },
     "name": "Secret Scroll",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 30,
@@ -2097,13 +2097,13 @@
           "name": "Hidden Pouch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Hidden%20Pouch"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/hidden-pouch.svg"
       }
     },
     "name": "Hidden Pouch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 30,
@@ -2119,13 +2119,13 @@
           "name": "Hidden Pouch"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Hidden%20Pouch"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/hidden-pouch.svg"
       }
     },
     "name": "Hidden Pouch",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 30,
@@ -2141,13 +2141,13 @@
           "name": "Ninja Cloak"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ninja-cloak.svg"
       }
     },
     "name": "Ninja Cloak",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 75,
@@ -2163,13 +2163,13 @@
           "name": "Ninja Cloak"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ninja-cloak.svg"
       }
     },
     "name": "Ninja Cloak",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 75,
@@ -2185,13 +2185,13 @@
           "name": "Ninja Cloak"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ninja%20Cloak"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ninja-cloak.svg"
       }
     },
     "name": "Ninja Cloak",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 75,
@@ -2207,13 +2207,13 @@
           "name": "Throwing Stars"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/throwing-stars.svg"
       }
     },
     "name": "Throwing Stars",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 20,
@@ -2229,13 +2229,13 @@
           "name": "Throwing Stars"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/throwing-stars.svg"
       }
     },
     "name": "Throwing Stars",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 20,
@@ -2251,13 +2251,13 @@
           "name": "Throwing Stars"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/throwing-stars.svg"
       }
     },
     "name": "Throwing Stars",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 20,
@@ -2273,13 +2273,13 @@
           "name": "Throwing Stars"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Throwing%20Stars"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/throwing-stars.svg"
       }
     },
     "name": "Throwing Stars",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Ninja",
     "baseValue": 20,
@@ -2295,13 +2295,13 @@
           "name": "Ronin's Katana"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Katana"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ronin-s-katana.svg"
       }
     },
     "name": "Ronin's Katana",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 75,
@@ -2317,13 +2317,13 @@
           "name": "Ronin's Bow"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Bow"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ronin-s-bow.svg"
       }
     },
     "name": "Ronin's Bow",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 75,
@@ -2339,13 +2339,13 @@
           "name": "Ronin's Armor"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Ronin%27s%20Armor"
+        "cost": 75,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/ronin-s-armor.svg"
       }
     },
     "name": "Ronin's Armor",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 75,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 75,
@@ -2361,13 +2361,13 @@
           "name": "Clan Banner"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Clan%20Banner"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/clan-banner.svg"
       }
     },
     "name": "Clan Banner",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 50,
@@ -2383,13 +2383,13 @@
           "name": "Clan Banner"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Clan%20Banner"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/clan-banner.svg"
       }
     },
     "name": "Clan Banner",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 50,
@@ -2405,13 +2405,13 @@
           "name": "Last Arrow"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Last%20Arrow"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/last-arrow.svg"
       }
     },
     "name": "Last Arrow",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 50,
@@ -2427,13 +2427,13 @@
           "name": "Last Arrow"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Last%20Arrow"
+        "cost": 50,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/last-arrow.svg"
       }
     },
     "name": "Last Arrow",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 50,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 50,
@@ -2449,13 +2449,13 @@
           "name": "Samurai Helmet"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/samurai-helmet.svg"
       }
     },
     "name": "Samurai Helmet",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 20,
@@ -2471,13 +2471,13 @@
           "name": "Samurai Helmet"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/samurai-helmet.svg"
       }
     },
     "name": "Samurai Helmet",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 20,
@@ -2493,13 +2493,13 @@
           "name": "Samurai Helmet"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/samurai-helmet.svg"
       }
     },
     "name": "Samurai Helmet",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 20,
@@ -2515,13 +2515,13 @@
           "name": "Samurai Helmet"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Samurai%20Helmet"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/samurai-helmet.svg"
       }
     },
     "name": "Samurai Helmet",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Samurai",
     "baseValue": 20,
@@ -2534,16 +2534,16 @@
     "face": {
       "front": {
         "name": {
-          "name": "**Tea Bowl :**"
+          "name": "Tea Bowl"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/tea-bowl.svg"
       }
     },
-    "name": "**Tea Bowl :**",
+    "name": "Tea Bowl",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 30,
@@ -2556,16 +2556,16 @@
     "face": {
       "front": {
         "name": {
-          "name": "**Tea Bowl :**"
+          "name": "Tea Bowl"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/tea-bowl.svg"
       }
     },
-    "name": "**Tea Bowl :**",
+    "name": "Tea Bowl",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 30,
@@ -2578,16 +2578,16 @@
     "face": {
       "front": {
         "name": {
-          "name": "**Tea Bowl :**"
+          "name": "Tea Bowl"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=%2A%2ATea%20Bowl%20%3A%2A%2A"
+        "cost": 30,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/tea-bowl.svg"
       }
     },
-    "name": "**Tea Bowl :**",
+    "name": "Tea Bowl",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 30,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 30,
@@ -2603,13 +2603,13 @@
           "name": "Merchant's Abacus"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Merchant%27s%20Abacus"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/merchant-s-abacus.svg"
       }
     },
     "name": "Merchant's Abacus",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 40,
@@ -2625,13 +2625,13 @@
           "name": "Merchant's Abacus"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Merchant%27s%20Abacus"
+        "cost": 40,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/merchant-s-abacus.svg"
       }
     },
     "name": "Merchant's Abacus",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 40,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 40,
@@ -2647,13 +2647,13 @@
           "name": "Lucky Cat"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Lucky%20Cat"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/lucky-cat.svg"
       }
     },
     "name": "Lucky Cat",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2669,13 +2669,13 @@
           "name": "Lucky Cat"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Lucky%20Cat"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/lucky-cat.svg"
       }
     },
     "name": "Lucky Cat",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2691,13 +2691,13 @@
           "name": "Paper Lantern"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/paper-lantern.svg"
       }
     },
     "name": "Paper Lantern",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2713,13 +2713,13 @@
           "name": "Paper Lantern"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/paper-lantern.svg"
       }
     },
     "name": "Paper Lantern",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2735,13 +2735,13 @@
           "name": "Paper Lantern"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/paper-lantern.svg"
       }
     },
     "name": "Paper Lantern",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2757,13 +2757,13 @@
           "name": "Paper Lantern"
         },
         "type": "Artefact",
-        "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Paper%20Lantern"
+        "cost": 20,
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/paper-lantern.svg"
       }
     },
     "name": "Paper Lantern",
     "type": "Artefact",
-    "cost": 0,
+    "cost": 20,
     "era": "Feudal Japan",
     "set": "Tea House",
     "baseValue": 20,
@@ -2780,7 +2780,7 @@
         },
         "type": "Artefact",
         "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Convincing%20Forgery"
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/convincing-forgery.svg"
       }
     },
     "name": "Convincing Forgery",
@@ -2788,7 +2788,7 @@
     "cost": 0,
     "era": "N/A",
     "set": "N/A",
-    "baseValue": null,
+    "baseValue": 0,
     "effect": "This artefact can be attached to any other artefact while it is being sold, and will copy it.",
     "copyNumber": 1,
     "totalCopies": 2
@@ -2802,7 +2802,7 @@
         },
         "type": "Artefact",
         "cost": 0,
-        "image": "https://placehold.co/400x560/png?text=Convincing%20Forgery"
+        "image": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/card-images/convincing-forgery.svg"
       }
     },
     "name": "Convincing Forgery",
@@ -2810,7 +2810,7 @@
     "cost": 0,
     "era": "N/A",
     "set": "N/A",
-    "baseValue": null,
+    "baseValue": 0,
     "effect": "This artefact can be attached to any other artefact while it is being sold, and will copy it.",
     "copyNumber": 2,
     "totalCopies": 2
