@@ -1,0 +1,10 @@
+{
+  "live": {
+    "cards": "C:\\Users\\USER\\Documents\\Turnabout Auction\\Cards",
+    "out": "../cards"
+  },
+  "wip": {
+    "cards": "C:\\Users\\USER\\Documents\\Turnabout Auction - SANDBOX\\Cards",
+    "out": "../cards-wip"
+  }
+}
