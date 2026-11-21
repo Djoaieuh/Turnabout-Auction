@@ -28,6 +28,8 @@ python generate_cards.py --wip
 
 WIP images go to `cards-wip/`, so they never overwrite the live ones. That folder is ignored by Git.
 
+Each run of the live build also writes the two playingcards.io CSVs next to the images: `cards/TurnaboutAuctionArtefactsList_EN.csv` and `..._FR.csv` (see "The CSV" below).
+
 Each image is named after the English name (`Cleopatra's Earring` → `cleopatras_earring.png`). Each run also makes `overview_en.jpg` and `overview_fr.jpg` with every card on one sheet, for a quick check.
 
 Existing images with the same name are replaced. Images of artefacts you removed or renamed are **not** deleted: delete them yourself.
@@ -36,12 +38,27 @@ Existing images with the same name are replaced. Images of artefacts you removed
 
 ```json
 {
+  "image_base_url": "https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/",
   "live": { "cards": "C:\\Users\\USER\\Documents\\Turnabout Auction\\Cards", "out": "../cards" },
   "wip":  { "cards": "C:\\Users\\USER\\Documents\\Turnabout Auction - SANDBOX\\Cards", "out": "../cards-wip" }
 }
 ```
 
-If you move a vault, change its path here. `out` is relative to this folder.
+If you move a vault, change its path here. `out` is relative to this folder. `image_base_url` is where GitHub serves the repo's files; the CSV links are built from it.
+
+## The CSV
+
+One file per language, for importing into playingcards.io:
+
+- A single column, `image`: the link to the card's picture on GitHub, e.g. `https://raw.githubusercontent.com/Djoaieuh/Turnabout-Auction/refs/heads/main/cards/en/ankh.png`. The French file links to `cards/fr/`.
+- **One row per physical copy**: a card with `copies: 3` gets 3 identical rows. Rows follow the cards' `order`.
+- UTF-8 with BOM, CRLF line endings.
+
+The links only work once the images are on GitHub, so **commit and push the `cards` folder before importing the CSV**.
+
+In playingcards.io, the card template needs one image layer whose Card Data Field is `image`, set to "Different per-card" and covering the whole card. The old text layers and the colour background aren't needed any more: everything is in the picture.
+
+No CSV is written with `--wip` (those images aren't pushed), with `--only` (the CSV needs every card), or when `--out` is outside the repo.
 
 ### Options
 
@@ -57,7 +74,7 @@ If you move a vault, change its path here. `out` is relative to this folder.
 
 ## Input
 
-**Card notes:** the properties at the top of each note are used: `era`, `set`, `base_value`, `keyword`, `text`, `name_fr`, `keyword_fr`, `text_fr`, `order`. The card's English name is the note's file name.
+**Card notes:** the properties at the top of each note are used: `era`, `set`, `base_value`, `copies`, `keyword`, `text`, `name_fr`, `keyword_fr`, `text_fr`, `order`. The card's English name is the note's file name.
 
 **JSON:** a list of artefacts with the same fields plus `name` (see `artefacts.json`, a snapshot of the live vault; use it with `--input artefacts.json` when the vault isn't on this computer):
 
@@ -67,6 +84,7 @@ If you move a vault, change its path here. `out` is relative to this folder.
   "era": "Egyptian",
   "set": "Cleopatra",
   "base_value": 20,
+  "copies": 3,
   "keyword": "Attachment: Egyptian",
   "text": "Double the final sell value of the artefact this is attached to.",
   "name_fr": "Boucle d'Oreille de Cléopâtre",
@@ -78,7 +96,7 @@ If you move a vault, change its path here. `out` is relative to this folder.
 
 - Several keywords: separate them with a comma (`"Attachment: Any, Container: 1"`). Each gets its own ribbon.
 - No era or set: write `"N/A"`. An empty `base_value` shows as `?`.
-- Before drawing anything, the program checks every card and stops with a list of problems if one is missing a style, a text or a translation.
+- Before drawing anything, the program checks every card and stops with a list of problems if one is missing a style, a text or a translation, if `copies` isn't a whole number of 1 or more, or if two cards would get the same image name.
 - If a text is too long, it is shrunk a little to fit and the program says so. If it still doesn't fit, it warns that the text overflows.
 
 ## Styles: `styles.json`

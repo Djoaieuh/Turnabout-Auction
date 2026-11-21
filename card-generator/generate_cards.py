@@ -433,6 +433,15 @@ def check(cards, styles, langs):
             problems.append(f"{c['name']}: missing French name or text")
         if "fr" in langs and bool(c.get("keyword")) != bool(c.get("keyword_fr")):
             problems.append(f"{c['name']}: keyword in one language only")
+        cp = c.get("copies")
+        if not isinstance(cp, int) or isinstance(cp, bool) or cp < 1:
+            problems.append(f"{c['name']}: copies must be a whole number of 1 or more (got {cp!r})")
+    seen = {}
+    for c in cards:
+        s = slug(c["name"])
+        if s in seen:
+            problems.append(f"{c['name']} and {seen[s]} would get the same image name ({s}.png)")
+        seen[s] = c["name"]
     return problems
 
 
@@ -447,6 +456,18 @@ def contact_sheet(paths, out, cols=8):
     for i, im in enumerate(ims):
         sheet.alpha_composite(im, (gap + (i % cols) * (w + gap), gap + (i // cols) * (h + gap)))
     sheet.convert("RGB").save(out)
+
+
+CSV_NAMES = {"en": "TurnaboutAuctionArtefactsList_EN.csv", "fr": "TurnaboutAuctionArtefactsList_FR.csv"}
+
+
+def write_csv(cards, lang, url_folder, out_file):
+    """One row per physical copy, a single `image` column with the card's URL."""
+    rows = ["image"]
+    for c in cards:
+        rows += [f"{url_folder}/{slug(c['name'])}.png"] * c["copies"]
+    out_file.write_text("\r\n".join(rows) + "\r\n", encoding="utf-8-sig", newline="")
+    return len(rows) - 1
 
 
 def main():
@@ -473,6 +494,20 @@ def main():
         a.out = str((HERE / build["out"]).resolve())
     print(f"Reading {a.input}")
 
+    # The CSV links to the images on GitHub, so it only makes sense for a full run
+    # into a folder of the repo that gets pushed (the live cards/ folder).
+    csv_base, csv_skip = None, None
+    repo = HERE.parent.resolve()
+    out_dir = Path(a.out).resolve()
+    if a.only:
+        csv_skip = "--only draws some cards, the CSV needs all of them"
+    elif a.wip:
+        csv_skip = "WIP images aren't pushed to GitHub, so their links wouldn't work"
+    elif not out_dir.is_relative_to(repo):
+        csv_skip = "the output folder is outside the repo, so the images won't be on GitHub"
+    else:
+        csv_base = settings["image_base_url"].rstrip("/") + "/" + out_dir.relative_to(repo).as_posix()
+
     styles = json.loads(Path(a.styles).read_text(encoding="utf-8"))
     cards = load_cards(a.input)
     if a.only:
@@ -494,6 +529,11 @@ def main():
         print(f"{lang}: {len(made)} cards -> {out}")
         if not a.no_sheet:
             contact_sheet(made, Path(a.out) / f"overview_{lang}.jpg")
+        if csv_base:
+            n = write_csv(cards, lang, f"{csv_base}/{lang}", Path(a.out) / CSV_NAMES[lang])
+            print(f"{lang}: {CSV_NAMES[lang]} ({n} rows, one per copy)")
+    if not csv_base:
+        print(f"No CSV: {csv_skip}")
 
 
 if __name__ == "__main__":
